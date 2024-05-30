@@ -83,3 +83,9 @@ form input::placeholder {
 .input-wrapper + .input-wrapper{
   margin-top: 1.6rem;
 }
+
+/* Modal */
+.modal-wrapper{
+  position: absolute;
+  top: 0;
+}
